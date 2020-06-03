@@ -1,0 +1,17 @@
+table{
+    font-family: arial, sans-serif;
+    border-collapse:collapse;
+    width: 80%;
+}
+th,td{
+    border: 1px solid black;
+    width: 30px;
+    height: 45px;
+    text-align: center;
+
+}
+th{
+    color: #dddddd;
+    background-color: red;
+    border-color: #dddddd;
+}

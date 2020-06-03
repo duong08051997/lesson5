@@ -1,0 +1,13 @@
+option[tyle = text], select{
+ width: 250px;
+    padding: 2px 2px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: inherit;}
+}
+input[tyle = text] text{
+width:15px;
+    margin-left:15px;
+}

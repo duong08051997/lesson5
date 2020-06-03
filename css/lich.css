@@ -1,0 +1,16 @@
+th{
+    color: #dddddd;
+    font-family: Arial;
+    border: 1px solid #dddddd;
+    width: 100px;
+}
+
+
+
+td{
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid rosybrown;
+    height: 35px;
+
+}

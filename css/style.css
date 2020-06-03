@@ -1,0 +1,43 @@
+body{
+    width: 500px;
+    height: 500px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-right: 10px solid paleturquoise;
+    border-left: 10px solid paleturquoise;
+    border-bottom: 10px solid paleturquoise;
+    border-top: 5px solid paleturquoise;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    background-color:orange;
+    color: white;
+}
+.text{
+
+
+    color:blue;
+}
+#mau{
+
+    color:palevioletred;
+    display: inline-block;
+
+
+}
+input[type=text], select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: inherit;}
+
+h3{
+    color: blue;
+
+}

@@ -1,0 +1,25 @@
+h1{
+    background-color:aqua;
+    color: blue;
+}
+#1{
+    background-color: yellow;
+    width: 600px;
+    height: 500px;
+
+}
+body{
+
+    width: 500px;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-right: 10px solid paleturquoise;
+    border-left: 10px solid paleturquoise;
+    border-bottom: 10px solid paleturquoise;
+    border-top: 5px solid paleturquoise;
+    padding: 10px;
+
+}

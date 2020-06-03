@@ -1,0 +1,28 @@
+td{
+text-align: center;
+    background-color: #dddddd;
+}
+th{
+    background-color: yellow;
+}
+h1{
+    color: blue;
+    text-align: right;
+}
+table{
+    margin-left:100px ;
+}
+p{
+    color: blue;
+    margin-left: 100px;
+}
+
+#right{
+    float: right;
+    width: 950px;
+margin-bottom: 0px;
+
+}
+#bottom{
+
+}
